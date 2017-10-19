@@ -1,0 +1,479 @@
+div{
+	width:40px;
+	height:10px;
+	position:absolute;
+
+}
+
+.line1{
+	background-color: black;
+	top: 50px;
+	left:50px;
+
+}
+
+.line2{
+	background-color: black;
+	top: 250px;
+	left:50px;
+
+}
+
+.line3{
+	background-color: black;
+	width:5px;
+	height:190px;
+    top: 60px;
+	left:60px;x
+}
+
+.line4{
+	background-color: black;
+	width:5px;
+	height:190px;
+    top: 60px;
+	left:76px;
+}
+
+.line5{
+	background-color: black;
+	width:10px;
+	height:134px;
+    top: 139px;
+	left:120px;
+	transform: rotate(140deg);
+}
+
+.line6{
+	background-color: black;
+	top: 250px;
+	left:139px;
+	width:30px;
+	height:10px;
+}
+
+
+.triangle1 {
+  top: 64px;
+  left: 75px;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 90px solid rgb( 64, 64, 64);
+
+  transform: rotate(90deg);
+}
+
+.littletriangle{
+  top: 250px;
+  left: 158px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid rgb(0, 0, 0);
+
+  transform: rotate(360deg);
+}
+
+.littletriangle2{
+  top: 242px;
+  left: 373px;
+  width: 0;
+  height: 0;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-bottom: 18px solid rgb( 0 , 0, 0);
+
+  transform: rotate(360deg);
+}
+
+.A1{
+	background-color: black;
+	top: 49px;
+	left:290px;
+	width:23px;
+	height:10px;
+}
+
+
+.A2{
+	background-color: black;
+	top: 250px;
+	left: 230px;
+}
+
+
+.A3{
+	background-color: black;
+	top: 250px;
+	left:350px;
+}
+
+.A4{
+	background-color: black;
+	width:4px;
+	height:212px;
+    top: 47px;
+	left:264px;
+	transform: rotate(194deg);
+}
+.A5{
+	background-color: black;
+	width:4px;
+	height:212px;
+    top: 50px;
+	left:280px;
+	transform: rotate(194deg);
+}
+
+.A6{
+	background-color: black;
+	width:10px;
+	height:220px;
+    top: 44px;
+	left:343px;
+	transform: rotate(159deg);
+}
+
+
+.triangle2 {
+  top: 55px;
+  left: 281px;
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 100px solid rgb( 64, 64, 64);
+
+  transform: rotate(358deg);
+}
+
+
+.N1{
+	background-color: black;
+	top: 49px;
+	left:461px;
+	width:29.5px;
+	height:10px;
+}
+
+.N2{
+	background-color: black;
+	top: 250px;
+	left:452px;
+}
+
+.N3{
+	background-color: rgb(64, 64, 64);
+	width:12px;
+	height:222px;
+    top: 43px;
+	left:520px;
+	transform: rotate(158deg);
+}
+
+.N4{
+	background-color: black;
+	width:4px;
+	height:200px;
+    top: 53px;
+	left:480px;
+	transform: rotate(360deg);
+}
+
+.N6{
+	background-color: black;
+	width:4px;
+	height:200px;
+    top: 58px;
+	left:461px;
+	transform: rotate(360deg);
+}
+
+
+
+.N5{
+	background-color: black;
+	top: 250px;
+	left:559px;
+	width:30px;
+}
+
+
+.N8{
+	background-color: black;
+	top: 49px;
+	left:466px;
+	width:28px;
+	height:10px;
+}
+
+
+.N7{
+	background-color: black;
+	width:4px;
+	height:200px;
+	left: 568px;
+    top: 50px;
+	transform: rotate(360deg);
+}
+.N8{
+	background-color: black;
+	width:4px;
+	height:200px;
+    top: 58px;
+	left:585px;
+	transform: rotate(360deg);
+}
+.N9{
+	background-color: black;
+	top: 49px;
+	left:568px;
+	width:28px;
+	height:10px;
+}
+
+
+
+.G1{
+	background-color: black;
+	width:4px;
+	height:200px;
+    top: 50px;
+	left:660px;
+	transform: rotate(360deg);
+}
+.G2{
+	background-color: black;
+	width:4px;
+	height:200px;
+    top: 58px;
+	left:677px;
+	transform: rotate(360deg);
+}
+
+
+.G3{
+	background-color: black;
+	top: 250px;
+	left:650px;
+	width:144px;
+}
+
+.G4{
+background-color: black;
+	top: 48px;
+	left:650px;
+	width:144px;
+}
+
+
+.G5{
+background-color: black;
+	width:10px;
+	height:50px;
+    top: 58px;
+	left:784px;
+	transform: rotate(360deg);
+}
+
+.G6{
+	background-color: black;
+	width:10px;
+	height:50px;
+    top: 200px;
+	left:784px;
+	transform: rotate(360deg);
+}
+
+
+
+.Gtriangle {
+  top: 140px;
+  left: 720px;
+  width: 0;
+  height: 0;
+  border-left: 29px solid transparent;
+  border-right: 29px solid transparent;
+  border-bottom: 90px solid rgb(64, 64, 64);
+
+  transform: rotate(270deg);
+}
+
+.G7{
+
+	background-color: black;
+	top: 98px;
+	left:766px;
+	width:28px;
+	height:10px;
+}
+
+
+
+.E1{
+	background-color: black;
+	width:4px;
+	height:206px;
+    top: 50px;
+	left:884px;
+	transform: rotate(360deg);
+}
+.E2{
+	background-color: black;
+	width:4px;
+	height:200px;
+    top: 50px;
+	left:865px;
+	transform: rotate(360deg);
+}
+
+.E3{
+	background-color: black;
+	top: 250px;
+	left:858px;
+	width:140px;
+}
+
+.E4{
+background-color: black;
+	top: 48px;
+	left:858px;
+	width:140px;
+}
+
+
+.Etriangle {
+  top: 100px;
+  left: 919px;
+  width: 0;
+  height: 0;
+  border-left: 26px solid transparent;
+  border-right: 26px solid transparent;
+  border-bottom: 119px solid rgb(64, 64, 64);
+  transform: rotate(90deg);
+}
+
+.S1{
+	background-color: black;
+	width:4px;
+	height:100px;
+    top: 160px;
+	left:1177px;x
+}
+
+.S2{
+	background-color: black;
+	width:4px;
+	height:100px;
+    top: 160px;
+	left:1195px;
+}
+
+
+.Striangle {
+  top: 175px;
+  left: 1107px;
+  width: 0;
+  height: 0;
+  border-left: 3px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 142px solid rgb(64, 64, 64);
+  transform: rotate(270deg);
+}
+
+
+.S3{
+	background-color: black;
+	width:4px;
+	height:100px;
+    top: 60px;
+	left:1076px;x
+}
+
+.S4{
+	background-color: black;
+	width:4px;
+	height:100px;
+    top: 60px;
+	left:1057px;
+}
+
+.S5{
+background-color: black;
+	top: 150px;
+	left:1059px;
+	width:140px;
+}
+
+
+.Striangle2 {
+  top: -3px;
+  left: 1106px;
+  width: 0;
+  height: 0;
+  border-left: 3px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 142px solid rgb(64, 64, 64);
+  transform: rotate(450deg);
+}
+
+.S6{
+	background-color: black;
+	top: 54px;
+	left:1184px;
+	width:18px;
+	height:10px;
+	transform: rotate(450deg);
+}
+
+.S7{
+	background-color: black;
+	top: 250px;
+	left:1054px;
+	width:18px;
+	height:10px;
+	transform: rotate(450deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.discription{
+	top: 350px;
+	left: 50px;
+	font-family: Helvetica;
+	font-size: 20px;
+	width: 700px;
+	line-height: 46px;
+	font-weight: bold;
+}
+
+
+.discription2{
+	top: 390px;
+	left: 50px;
+	font-family: Helvetica;
+	font-size: 12px;
+	width: 500px;
+	line-height: 18px;
+}
+
+
+
+
+
+
+
