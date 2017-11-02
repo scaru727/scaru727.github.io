@@ -1,0 +1,128 @@
+div{
+	width:300px;
+	height:10px;
+	position:absolute;
+	font-size: 30px;
+	color: rgb(80,80,80);
+	text-align: left;
+	font-weight: 400;
+	padding-top:40px;
+}
+
+
+
+.giannilogo{
+left:120px;
+top: -10px;
+}
+
+
+.header{
+left:181px;
+top: 210px;
+color: black;
+font-family: 'Noto Serif', serif;
+font-size: 32px;
+}
+
+.fashion{
+	left:431px;
+top: 210px;
+color: black;
+font-family: 'Noto Serif', serif;
+font-size: 32px;
+
+}
+
+
+.article2{
+	 left:177px;
+	top: 255px;
+padding-left: 10px;
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+width:387px;
+}
+
+
+.line{
+	 left:630px;
+	top: -10px;
+}
+
+
+.Q1{
+left:690px;
+top: 10px;
+font-size: 14px;
+font-family: 'Roboto',  sans-serif ;
+}
+
+.A1{
+left:690px;
+top: 40px;
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+}
+
+.Q2{
+left:690px;
+top: 90px;
+font-size: 14px;
+font-family: 'Roboto',  sans-serif ;
+}
+ .A2{
+left:690px;
+top: 120px;
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+ }
+
+.Q3{
+left:690px;
+top: 210px;
+font-size: 14px;
+font-family: 'Roboto',  sans-serif ;
+}
+
+.A3{
+left:690px;
+top: 240px;
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+}
+
+.Q4{
+left:690px;
+top: 370px;
+font-size: 14px;
+font-family: 'Roboto',  sans-serif ;
+}
+
+.A4{
+left:690px;
+top: 400px;
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+}
+
+.yarrow{
+	left:990px;
+	top: 450px;
+}
+
+
+
+
+
+.pullout4{
+	padding-left: 40px;
+font-family: 'Noto Serif', serif;
+font-size: 20px;
+left:147px;
+top: 460px;
+width:390px;
+color: rgb(224, 45, 48);
+}
+
+
