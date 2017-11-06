@@ -10,10 +10,23 @@ div{
 }
 
 
-.name{
-	left: 462px;
-	top: 225px;
+.arrow{
+	left: 1162px;
+	top: 480px;
 }
+
+
+
+.name{
+left: 468px;
+top: 225px;
+font-family: 'Roboto', sans-serif;
+color: rgb(76, 88, 167);
+font-size: 30px;
+font-family: 'Noto Serif', serif;
+
+}
+
 
 
 .logo{
@@ -22,7 +35,7 @@ div{
 }
 
 .GD{
-    left:850px;
+    left:855px;
 	top: 236px;
 }
 

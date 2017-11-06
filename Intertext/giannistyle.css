@@ -44,16 +44,26 @@ font-family: 'Noto Serif', serif;
 font-size: 39px;
 left:560px;
 line-height: 46px;
-top: 110px;
+top: 90px;
 color: rgb(76, 88, 167);
 }
 
 .arrow{
-left:930px;
-top: 376px;
+left:920px;
+top: 460px;
 }
 
+.name{
+padding-left: 40px;
+font-family: 'Noto Serif', serif;
+font-size: 18px;
+left:560px;
+line-height: 46px;
+top: 350px;
+color: rgb(76, 88, 167);
+transform: rotate( 360deg);
 
+}
 
 
 

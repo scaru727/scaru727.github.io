@@ -1,0 +1,115 @@
+div{
+	width:300px;
+	height:10px;
+	position:absolute;
+	font-size: 30px;
+	color: rgb(80,80,80);
+	text-align: left;
+	font-weight: 400;
+	padding-top:40px;
+}
+
+
+.bodycolor{
+	background-color: rgb( 109, 110, 113);
+	width:1400px;
+	height:800px;
+	top: -10px;
+	left: -10px;
+}
+
+
+.line{
+top: 40px;
+left:620px;	
+}
+
+
+.Q1{
+left:190px;
+top: 70px;
+font-size: 45px;
+line-height: 56px;
+color: white;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.A1{
+left:189px;
+top: 340px;
+font-size: 60px;
+font-family: 'Roboto', sans-serif;
+color: rgb( 0, 174, 239);
+width: 400px;
+line-height: 70px;
+}
+
+
+.A11{
+	left:192px;
+top: 340px;
+font-size: 60px;
+font-family: 'Roboto', sans-serif;
+color: white;
+width: 400px;
+line-height: 70px;
+
+}
+
+.Q2{
+left:690px;
+top: 90px;
+color: white;
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+}
+
+ .A2{
+left:690px;
+top: 180px;
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+color: black;
+ }
+
+.Q3{
+left:690px;
+top: 360px;
+font-size: 14px;
+color: white;
+font-family: 'Roboto', sans-serif;
+}
+
+.A3{
+left:690px;
+top: 400px;
+font-size: 14px;
+font-family: 'Roboto', sans-serif;
+color: black;
+}
+
+
+
+
+
+ .warrow{
+left:1030px;
+top: 490px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
