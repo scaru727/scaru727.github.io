@@ -1,0 +1,125 @@
+div{
+	width:300px;
+	height:10px;
+	position:absolute;
+	font-size: 16px;
+	color: rgb(80,80,80);
+	text-align: left;
+	font-weight: 400;
+	padding-top:40px;
+}
+
+
+body {
+	background-color: rgb(224, 224, 224);
+}
+
+.H1950{
+font-family: 'Abril Fatface', cursive;
+color: rgb(153, 170, 200);
+font-size: 160px;
+top: -35px;
+left: 260px;
+}
+
+
+
+.line1{
+	background-color: rgb(176, 176, 176);
+	top: 58px;
+	left:640px;
+	width:8px;
+	height:83px;
+
+}
+
+.title{
+color:  rgb(153, 170, 200);
+font-family: Helvetica, sans-serif;
+top: 12px;
+left:669px;
+font-size: 16px;
+width: 550px;
+}
+
+.para{
+color: black;
+font-family: Helvetica, sans-serif;
+font-size: 12px;
+width: 280px;
+left: 670px;
+top: 33px;
+}
+
+.first{
+top: 190px;
+left:119px;
+
+}
+
+.second{
+top: 190px;
+left:669px;
+
+}
+
+.third{
+top: 890px;
+left:669px;
+}
+
+.fourth{
+top: 890px;
+left:159px;
+}
+
+.fifth{
+top: 1620px;
+left:664px;
+}
+
+.sixth{
+top: 1620px;
+left:166px;
+}
+
+
+.box{
+background-color:  rgb(153, 170, 200);
+color:  rgb(246, 144, 122);
+top: 2350px;
+left:550px;
+width:170px;
+height:20px;
+border-radius: 20px;
+}
+
+
+.home{
+color: white;
+font-family: Helvetica, sans-serif;
+top: 2320px;
+left:576px;
+font-size: 40px;
+width: 550px;
+}
+
+
+.box2{
+background-color: rgb(224, 224, 224);
+top: 2500px;
+left:620px;
+width:200px;
+height:20px;
+
+}
+
+
+
+
+
+
+
+
+
+

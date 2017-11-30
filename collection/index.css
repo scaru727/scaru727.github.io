@@ -1,0 +1,312 @@
+div{
+	position:absolute;
+	padding-top:40px;
+}
+
+
+
+.fashion{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;;
+color:  white;
+font-size: 96px;
+top: -24px;
+left: 410px;
+letter-spacing:10px;
+
+}
+
+
+.b00s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 60px;
+top: 408px;
+left: 792px;
+}
+
+.p90s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 60px;
+top: 410px;
+left: 588px;
+
+}
+
+
+
+
+.bio{
+font-family: Helvetica, sans-serif;
+color:  rgb(225, 242, 244);
+font-size: 20px;
+top: 90px;
+left: 442px;
+width: 900px;
+letter-spacing:3.5px;
+
+}
+
+.Fbox{
+	background-color: rgb(139, 207, 208);
+	width:620px;
+	height:148px;
+    top: 10px;
+	left: 330px;
+}
+
+.box17{
+
+	background-color: rgb(151, 166, 175);
+	width:620px;
+	height:37px;
+    top: 610px;
+	left: 330px;
+}
+
+
+
+.b17{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 60px;
+top: 568px;
+left: 577px;
+}
+
+
+
+.Ybox {
+
+	background-color: rgb(153, 170, 200);
+	width:200px;
+	height:150px;
+    top: 210px;
+	left: 329px;x
+	cursor: pointer;
+	
+}
+
+.Y60s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 60px;
+top: 215px;
+left: 378px;
+}
+
+.Yline{
+	background-color: rgb(90, 110, 142);
+	width:200px;
+	height:-9px;
+    top: 360px;
+	left: 329px;x
+	cursor: pointer;
+}
+
+
+
+.Pbox{
+	background-color: rgb(243, 181, 197);
+	width:200px;
+	cursor: pointer;
+	height:150px;
+    top: 210px;
+	left: 540px;x
+}
+
+.Pline{
+	background-color: rgb(234, 150, 178);
+	width:200px;
+	height:-9px;
+    top: 360px;
+	left: 540px;x
+	cursor: pointer;
+
+}
+
+.O70s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 80px;
+top: 409px;
+left: 580px;
+
+}
+
+
+.Bbox{
+	background-color: rgb(246, 144, 122);
+	width:200px;
+	cursor: pointer;
+	height:150px;
+    top: 210px;
+	left: 750px;x
+	
+}
+
+
+.Bline{
+	background-color: rgb(241, 123, 43);
+	width:200px;
+	height:-9px;
+    top: 360px;
+	left: 750px;x
+	cursor: pointer;
+
+}
+
+.O00s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 60px;
+top: 215px;
+left: 798px;
+
+}
+
+
+
+
+.Pibox{
+	background-color: rgb(106, 175, 197);
+	width:200px;
+	cursor: pointer;
+	height:150px;
+    top: 410px;
+	left: 750px;x	
+}
+
+.Piline{
+background-color: rgb(53, 148, 170);
+	width:200px;
+	height:-9px;
+    top: 560px;
+	left: 750px;x
+	cursor: pointer;
+
+}
+
+
+
+.O90s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 80px;
+top: 409px;
+left: 680px;
+
+}
+
+
+.Obox{
+	background-color: rgb(224, 112, 141);
+	width:200px;
+	height:150px;
+    top: 410px;
+    cursor: pointer;
+	left: 540px;
+}
+
+
+.O80s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 60px;
+top: 215px;
+left: 580px;
+
+}
+
+
+
+.Lbox{
+	background-color: rgb(198, 158, 201);
+	width:200px;
+	height:150px;
+    top: 410px;
+	left: 330px;
+	cursor: pointer;
+}
+
+
+.L50s{
+font-family: 'Abril Fatface', cursive;
+font-style: normal;
+font-weight: 400;
+color:  white;
+cursor: pointer;
+font-size: 60px;
+top: 409px;
+left: 376px;
+}
+
+
+.Lline{
+	background-color: rgb(155, 106, 160);
+	width:200px;
+	height:-9px;
+    top: 560px;
+	left: 330px;x
+	cursor: pointer;
+
+}
+
+.Oline{
+
+	background-color: rgb(194, 45, 80);
+	width:200px;
+	height:-9px;
+    top: 560px;
+	left: 540px;x
+	cursor: pointer;
+}
+
+.line17{
+	background-color: rgb(111, 131, 142);
+	width:620px;
+	height:-9px;
+    top: 686px;
+	left: 330px;
+	cursor: pointer;
+}
+
+.white{
+		background-color: white;
+	width:640px;
+	height:-9px;
+    top: 700px;
+	left: 330px;x
+	cursor: pointer;
+}
+
+
+
+
+
