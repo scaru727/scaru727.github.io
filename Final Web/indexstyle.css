@@ -1,0 +1,67 @@
+div{
+	position:absolute;
+	padding-top:40px;
+}
+
+.mag{
+top: 120px;
+left: 110px;
+
+}
+
+.maglink{
+font-family: helvetica;
+top: 348px;
+left: 110px;
+font-size: 14px;
+}
+
+.fontlink{
+font-family: helvetica;
+top: 270px;
+left: 620px;
+font-size: 14px;
+}
+
+
+.font{
+top: 140px;
+left: 610px;
+}
+
+
+.intertext{
+font-family: helvetica;	
+top: 640px;
+left: 140px;
+}
+
+
+.versace{
+font-family: helvetica;
+top: 410px;
+left: 110px;
+
+}
+
+.SC{
+font-family: helvetica;
+top: 10px;
+left: 520px;
+}
+
+.linkcolor{
+top: 640px;
+font-family: helvetica;
+left: 750px;
+
+}
+
+.color{
+top: 368px;
+left: 680px;
+
+}
+
+
+
