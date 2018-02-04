@@ -1,160 +1,6 @@
 div{
-	width:40px;
-	height:10px;
 	position:absolute;
 }
- div:hover{
-
- }
-
-
-.l1{
-	background-color: rgb(219,54,126);
-	width:1px;
-	height:280px;
-    top: -35px;
-	left: 240px;
-	transform: rotate(50deg);
-}
-
-.l2{
-	background-color: rgb(219,54,126);
-	width:2px;
-	height:280px;
-    top: -11px;
-	left: 230px;
-	transform: rotate(50deg);
-}
-
-.l3{
-	background-color: rgb(219,54,126);
-	width:1px;
-	height:280px;
-    top: 13px;
-	left: 224px;
-	transform: rotate(50deg);
-}
-
-.l4{
-	background-color: rgb(219,54,126);
-	width:3px;
-	height:280px;
-    top: 34px;
-	left: 220px;
-	transform: rotate(50deg);
-}
-
-.Rl1{
-	background-color: rgb(51,100,148);
-	width:1px;
-	height:255px;
-    top: -35px;
-	left: 640px;
-	transform: rotate(130deg);
-}
-
-.Rl2{
-background-color: rgb(51,100,148);
-	width:2px;
-	height:245px;
-    top: -4px;
-	left: 650px;
-	transform: rotate(130deg);
-}
-
-.Rl3{
-background-color: rgb(51,100,148);
-	width:1px;
-	height:245px;
-    top: 18px;
-	left: 660px;
-	transform: rotate(130deg);
-}
-
-.Rl4{
-background-color: rgb(51,100,148);
-	width:3px;
-	height:245px;
-    top: 44px;
-	left: 670px;
-	transform: rotate(130deg);
-}
-
-
-
-.Bl1{
-background-color: rgb(219,54,126);
-	width:1px;
-	height:370px;
-    top: 190px;
-	left: 230px;
-	transform: rotate(130deg);
-}
-
-.Bl2{
-background-color: rgb(219,54,126);
-	width:2px;
-	height:370px;
-    top: 215px;
-	left: 240px;
-	transform: rotate(130deg);
-}
-
-.Bl3{
-background-color: rgb(219,54,126);
-	width:1px;
-	height:374px;
-    top: 233px;
-	left: 248px;
-	transform: rotate(130deg);
-}
-
-.Bl4{
-background-color: rgb(219,54,126);
-	width:3px;
-	height:374px;
-    top: 258px;
-	left: 256px;
-	transform: rotate(130deg);
-}
-
-.ll1{
-background-color: rgb(51,100,148);
-	width:1px;
-	height:300px;
-    top: 180px;
-	left: 667px;
-	transform: rotate(52deg);
-}
-
-.ll2{
-background-color: rgb(51,100,148);
-	width:2px;
-	height:280px;
-    top: 214px;
-	left: 650px;
-	transform: rotate(52deg);
-}
-
-.ll3{
-background-color: rgb(51,100,148);
-	width:1px;
-	height:280px;
-    top: 234px;
-	left: 640px;
-	transform: rotate(52deg);
-}
-
-.ll4{
-background-color: rgb(51,100,148);
-	width:3px;
-	height:280px;
-    top: 258px;
-	left: 626px;
-	transform: rotate(52deg);
-}
-
-
 
 
 body {
@@ -163,11 +9,20 @@ body {
 
 
 
+.bar{
+	background-color: rgb(51,100,148);
+	width:106px;
+	height:720px;
+    top:0px;
+	left: 1176px;
+	transform: rotate(360deg);
+}
+
 
 
 .TB{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:200px;
     top: 184px;
 	left: 1050px;
@@ -177,7 +32,7 @@ body {
 
 .TB3{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:200px;
     top: 147px;
 	left: 1050px;
@@ -187,7 +42,7 @@ body {
 
 .TB1{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:39px;
     top: 246px;
 	left: 951px;
@@ -196,7 +51,7 @@ body {
 
 .TB2{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:39px;
     top: 246px;
 	left: 1150px;
@@ -207,7 +62,7 @@ body {
 
 .OV1{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:201px;
     top: 255px;
 	left: 1050px;
@@ -217,9 +72,9 @@ body {
 
 .OV2{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:200px;
-    top: 218px;
+    top: 216px;
 	left: 1050px;
 	transform: rotate(90deg);
 }
@@ -227,16 +82,16 @@ body {
 
 .OV3{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:40px;
     top: 316px;
-	left: 951px;
+	left: 950px;
 	transform: rotate(180deg);
 }
 
 .OV4{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:39px;
     top: 316px;
 	left: 1150px;
@@ -247,7 +102,7 @@ body {
 
 .MG1{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:200px;
     top: 331px;
 	left: 1050px;
@@ -257,7 +112,7 @@ body {
 
 .MG2{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:200px;
     top: 294px;
 	left: 1050px;
@@ -267,7 +122,7 @@ body {
 
 .MG3{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:39px;
     top: 393px;
 	left: 950px;
@@ -276,54 +131,27 @@ body {
 
 .MG4{
 	background-color: white;
-	width:3px;
+	width:2px;
 	height:39.3px;
     top: 393px;
 	left: 1150px;
 	transform: rotate(180deg);
 }
 
+
+
+
 .time{
 	font-family: 'Lato', sans-serif;
 	color: rgb(219,54,126);
-	font-size: 27px;
-	left:640px;
-	top: 296px;
-	transform: rotate(322deg);
-}
-
-
-.date{
-	color: rgb(92,131,169);
-font-family: 'Lato', sans-serif;
-	width: 480px;
 	font-size: 26px;
-	top: 247px;
-	left:480px;
-	transform: rotate(322deg);
+	left:786px;
+	top: 232px;
+	transform: rotate(316deg);
 }
 
 
 
-
-.SP{
-font-family: 'Oswald', sans-serif;
-	color: rgb(219,54,126);
-	font-size: 74px;
-	left: 747px;
-	width: 480px;
-	top: 10px;
-}
-
-
-
-.under{
-	font-family: 'Lato', sans-serif;
-	font-size: 16px;
-	left: 865px;
-	top: 104px;
-	width: 480px;
-}
 
 
 
@@ -344,14 +172,9 @@ font-family: 'Lato', sans-serif;
 
 
 
-.bar{
-	background-color: rgb(92,131,169);
-	width:106px;
-	height:700px;
-    top:0px;
-	left: 1176px;
-	transform: rotate(360deg);
-}
+
+
+
 
 
 .perf{
@@ -364,6 +187,8 @@ font-family: 'Lato', sans-serif;
 .perf:hover {
 	color: rgb(92,131,169);
 }
+
+
 
 
 
@@ -383,18 +208,309 @@ font-family: 'Lato', sans-serif;
 
 
 
+
 .logo{
-	left: 940px;
+	left: 1022px;
 	top: 504px;
 }
 
 
 
 
-.img{
-	left:240px;
-	top:50px;
+.danceimage{
+position: absolute;
+color: rgb(219,54,126);
+right: 524px;
+top: -20px;
+
 }
+
+
+
+.SP{
+font-family: 'Oswald', sans-serif;
+position: absolute;
+color: rgb(219,54,126);
+font-size: 5.5vw;
+right: 124px;
+top: 8px;
+
+}
+
+
+
+
+.under{
+	font-family: 'Lato', sans-serif;
+	font-size: 1.4vw;
+	right: -34px;
+	top: 104px;
+	width: 480px;
+}
+
+
+.date{
+	color: rgb(92,131,169);
+    font-family: 'Lato', sans-serif;
+	width: 480px;
+	font-size: 2vw;
+	top: 216px;
+	right:300px;
+	transform: rotate(314deg);
+}
+
+.time{
+	font-family: 'Lato', sans-serif;
+	color: rgb(219,54,126);
+	font-size: 2vw;
+	top: 270px;
+	left: 658px; 
+	transform: rotate(316deg);
+}
+
+
+
+.danceimage{
+position: absolute;
+color: rgb(219,54,126);
+right: 504px;
+top: 10px;
+
+}
+
+
+
+
+
+@media(max-width: 550px) {  /* Any window smaller than this px width gets the following CSS rules */
+  /* Rules go here */
+  .SP{
+    font-size: 10vw;
+    width: 100vw;
+    text-align: center;
+    right: auto;
+    top: -10px;
+}
+
+
+
+
+
+.under{
+	font-size: 2.9vw;
+    width: 100vw;
+    text-align: center;
+    right: auto;
+    top: 56px;
+}
+
+.date{
+	font-size: 4vw;
+    width: 100vw;
+    left: 184px;
+    top: 82px;
+    color: white;
+    transform: rotate(360deg);
+}
+
+.time{
+	font-family: 'Lato', sans-serif;
+    color: white;
+	font-size: 4vw;
+	top: 82px;
+    left: 294px;
+	transform: rotate(360deg);
+}
+
+
+
+.danceimage{
+	left: -42px;
+	top: 90px;
+}
+
+
+
+
+.bar{
+	color: rgb(51,100,148);
+	z-index: -5px;
+	width:546px;
+	height:200px;
+    top:760px;
+	left: 0px;
+	transform: rotate(180deg);
+
+}
+
+
+.OV1{
+background-color: rgb(198,198,198);
+	width:2px;
+	height:136px;
+    top: 713px;
+	left: 90px;
+	transform: rotate(90deg);
+}
+
+
+.OV2{
+background-color: rgb(198,198,198);
+	width:2px;
+	height:136px;
+    top: 751px;
+	left: 90px;
+	transform: rotate(90deg);
+}
+
+
+.OV3{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:40px;
+    top: 780px;
+	left: 21px;
+	transform: rotate(180deg);
+}
+
+.OV4{
+background-color: rgb(198,198,198);
+	width:2px;
+	height:40px;
+    top: 780px;
+	left: 159px;
+	transform: rotate(180deg);
+}
+
+.TB{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:136px;
+    top: 751px;
+	left: 253px;
+	transform: rotate(90deg);
+}
+
+
+.TB3{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:136px;
+    top: 713px;
+	left: 253px;
+	transform: rotate(90deg);
+}
+
+
+.TB1{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 186px;
+	transform: rotate(180deg);
+}
+
+.TB2{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 320px;
+	transform: rotate(180deg);
+}
+
+.MG1{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:136px;
+    top: 713px;
+	left: 415px;
+	transform: rotate(90deg);
+}
+
+
+.MG2{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:136px;
+    top: 750px;
+	left: 415px;
+	transform: rotate(90deg);
+}
+
+
+.MG3{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 346px;
+	transform: rotate(180deg);
+}
+
+.MG4{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 484px;
+	transform: rotate(180deg);
+}
+.MG{
+font-family: 'Lato', sans-serif;
+	left: 353px;
+	top: 789px;
+	font-size: 14px;
+	color: white;
+	width: 480px;
+
+}
+.MG:hover {
+	color: cyan;
+}
+
+
+.perf{
+font-family: 'Lato', sans-serif;
+	left: 197px;
+	top: 789px;
+	font-size: 14px;
+	color: white;
+}
+.perf:hover {
+	color: cyan;
+}
+
+
+
+.tix{ 
+font-family: 'Lato', sans-serif;
+	left: 48px;
+	top: 789px;
+	font-size: 14px;
+	color: white;
+	width: 480px;
+}
+
+.tix:hover {
+	color: cyan;
+}
+
+
+.logo2{
+
+
+}
+
+
+
+}
+
+
+
+
+
 
 
 
