@@ -282,8 +282,42 @@ top: 10px;
 
 
 
+
+.logo2{
+	display: none;
+}
+
+.add{
+	display: none;
+
+}
+
+
+
 @media(max-width: 550px) {  /* Any window smaller than this px width gets the following CSS rules */
   /* Rules go here */
+  
+
+.logo2{
+	display: block;
+	top:860px;
+	left: 20px;
+}
+
+
+.add{
+	display: block;
+	color: white;
+	font-size: 12px;
+	top:910px;
+	max-width: 210px;
+	left: 120px;
+	line-height: 15px;
+    font-family: helvetica;
+}
+
+
+
   .SP{
     font-size: 10vw;
     width: 100vw;
@@ -297,18 +331,19 @@ top: 10px;
 
 
 .under{
-	font-size: 2.9vw;
+	font-size: 3vw;
     width: 100vw;
-    text-align: center;
-    right: auto;
-    top: 56px;
+    left: 132px;
+    top: 60px;
 }
+
+
 
 .date{
 	font-size: 4vw;
     width: 100vw;
-    left: 184px;
-    top: 82px;
+    left: 188px;
+    top: 84px;
     color: white;
     transform: rotate(360deg);
 }
@@ -318,7 +353,7 @@ top: 10px;
     color: white;
 	font-size: 4vw;
 	top: 82px;
-    left: 294px;
+    left: 310px;
 	transform: rotate(360deg);
 }
 
@@ -467,7 +502,7 @@ font-family: 'Lato', sans-serif;
 
 }
 .MG:hover {
-	color: cyan;
+	color: rgb(219,54,126);
 }
 
 
@@ -479,7 +514,7 @@ font-family: 'Lato', sans-serif;
 	color: white;
 }
 .perf:hover {
-	color: cyan;
+	color: rgb(219,54,126);
 }
 
 
@@ -494,23 +529,209 @@ font-family: 'Lato', sans-serif;
 }
 
 .tix:hover {
-	color: cyan;
+	color: rgb(219,54,126);
+}
+
+}
+
+@media(max-width: 375px) {  /* Any window smaller than this px width gets the following CSS rules */
+  /* Rules go here */
+
+  .SP{
+    font-size: 12vw;
+    width: 100vw;
+    text-align: center;
+    right: -70px;
+    top: 2px;
+}
+
+
+.under{
+	font-size: 3.7vw;
+    width: 100vw;
+    right: -90;
+    top: 62px;
+}
+
+.date{
+	font-size: 5vw;
+    width: 100vw;
+    left: 178px;
+    top: 82px;
+    color: white;
+    transform: rotate(360deg);
+}
+
+.time{
+	font-family: 'Lato', sans-serif;
+    color: white;
+	font-size: 5vw;
+	top: 82px;
+    left: 282px;
+	transform: rotate(360deg);
+}
+
+
+.MG{
+font-family: 'Lato', sans-serif;
+	left: 360px;
+	top: 786px;
+	font-size: 12px;
+	color: white;
+	width: 100px;
+
+}
+.MG:hover {
+	color: rgb(219,54,126);
+}
+
+
+
+.perf{
+font-family: 'Lato', sans-serif;
+	left: 207px;
+	top: 792px;
+	font-size: 12px;
+	color: white;
+}
+.perf:hover {
+	color: rgb(219,54,126);
+}
+
+
+.tix{ 
+font-family: 'Lato', sans-serif;
+	left: 77px;
+	top: 792px;
+	font-size: 12px;
+	color: white;
+	width: 480px;
+}
+
+.tix:hover {
+	color: rgb(219,54,126);
+}
+
+
+
+
+.OV1{
+	width:2px;
+	height:90px;
+    top: 736px;
+	left: 115px;
+}
+
+
+.OV2{
+	width:2px;
+	height:90px;
+    top: 775px;
+	left: 115px;
+}
+
+
+.OV3{
+	width:2px;
+	height:40px;
+    top: 780px;
+	left: 70px;
+}
+
+.OV4{
+	width:2px;
+	height:40px;
+    top: 780px;
+	left: 159px;
+}
+
+.MG1{
+	width:2px;
+	height:90px;
+    top: 736px;
+	left: 386px;
+}
+
+
+.MG2{
+	width:2px;
+	height:90px;
+    top: 775px;
+	left: 386px;
+}
+
+
+.MG3{
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 342px;
+}
+
+.MG4{
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 430px;
+}
+
+.TB{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:110px;
+    top: 764px;
+	left: 253px;
+	transform: rotate(90deg);
+}
+
+
+.TB3{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:110px;
+    top: 726px;
+	left: 253px;
+	transform: rotate(90deg);
+}
+
+
+.TB1{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 199px;
+	transform: rotate(180deg);
+}
+
+.TB2{
+	background-color: rgb(198,198,198);
+	width:2px;
+	height:39px;
+    top: 780px;
+	left: 308px;
+	transform: rotate(180deg);
 }
 
 
 .logo2{
+	display: block;
+	top:860px;
+	left: 76px;
+}
 
-
+.add{
+	display: block;
+	color: white;
+	font-size: 12px;
+	top:910px;
+	max-width: 210px;
+	left: 170px;
+	line-height: 15px;
+    font-family: helvetica;
 }
 
 
-
 }
-
-
-
-
-
-
 
 
