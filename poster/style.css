@@ -245,6 +245,7 @@ top: 8px;
 
 .under{
 	font-family: 'Lato', sans-serif;
+
 	font-size: 1.4vw;
 	right: -34px;
 	top: 104px;
@@ -258,7 +259,7 @@ top: 8px;
 	width: 480px;
 	font-size: 2vw;
 	top: 216px;
-	right:300px;
+	right:310px;
 	transform: rotate(314deg);
 }
 
@@ -267,10 +268,14 @@ top: 8px;
 	color: rgb(219,54,126);
 	font-size: 2vw;
 	top: 270px;
-	left: 658px; 
+	left: 650px; 
 	transform: rotate(316deg);
 }
 
+
+.mobdatetime{
+	display:none;
+}
 
 
 .logo2{
@@ -298,14 +303,25 @@ top: 8px;
 .danceimage{
 width: 100vw;
 height: 100vh;
-top: 86px;
+top: 100px;
 left:0;
+display:block;
 
 }
 
 
 
+.mobdatetime{
+    font-family: 'Lato', sans-serif;
+	width: 100vw;
+	display: block;
+	font-size: 5vw;
+	color: white;
+	position: relative;
+	top: 84px;
+	text-align: center;
 
+}
 
 
 .add{
@@ -336,29 +352,10 @@ left:0;
 .under{
 	font-size: 3vw;
     width: 100vw;
-    left: 132px;
-    top: 60px;
+    left: 135px;
+    top: 62px;
 }
 
-
-
-.date{
-	font-size: 4vw;
-    width: 100vw;
-    left: 188px;
-    top: 84px;
-    color: white;
-    transform: rotate(360deg);
-}
-
-.time{
-	font-family: 'Lato', sans-serif;
-    color: white;
-	font-size: 4vw;
-	top: 82px;
-    left: 310px;
-	transform: rotate(360deg);
-}
 
 
 
@@ -368,7 +365,7 @@ left:0;
 .bar{
 	color: rgb(51,100,148);
 	z-index: -5px;
-	width:546px;
+	width:100vw;
 	height:200px;
     top:760px;
 	left: 0px;
@@ -381,8 +378,8 @@ left:0;
 background-color: rgb(198,198,198);
 	width:2px;
 	height:136px;
-    top: 713px;
-	left: 90px;
+    top: 723px;
+	left: 100px;
 	transform: rotate(90deg);
 }
 
@@ -391,8 +388,8 @@ background-color: rgb(198,198,198);
 background-color: rgb(198,198,198);
 	width:2px;
 	height:136px;
-    top: 751px;
-	left: 90px;
+    top: 761px;
+	left: 100px;
 	transform: rotate(90deg);
 }
 
@@ -401,8 +398,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:40px;
-    top: 780px;
-	left: 21px;
+    top: 790px;
+	left: 31px;
 	transform: rotate(180deg);
 }
 
@@ -410,8 +407,8 @@ background-color: rgb(198,198,198);
 background-color: rgb(198,198,198);
 	width:2px;
 	height:40px;
-    top: 780px;
-	left: 159px;
+    top: 790px;
+	left: 169px;
 	transform: rotate(180deg);
 }
 
@@ -419,8 +416,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:136px;
-    top: 751px;
-	left: 253px;
+    top: 761px;
+	left: 273px;
 	transform: rotate(90deg);
 }
 
@@ -429,8 +426,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:136px;
-    top: 713px;
-	left: 253px;
+    top: 723px;
+	left: 273px;
 	transform: rotate(90deg);
 }
 
@@ -439,8 +436,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:39px;
-    top: 780px;
-	left: 186px;
+    top: 790px;
+	left: 206px;
 	transform: rotate(180deg);
 }
 
@@ -448,8 +445,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:39px;
-    top: 780px;
-	left: 320px;
+    top: 790px;
+	left: 340px;
 	transform: rotate(180deg);
 }
 
@@ -457,8 +454,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:136px;
-    top: 713px;
-	left: 415px;
+    top: 723px;
+	left: 445px;
 	transform: rotate(90deg);
 }
 
@@ -467,8 +464,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:136px;
-    top: 750px;
-	left: 415px;
+    top: 760px;
+	left: 445px;
 	transform: rotate(90deg);
 }
 
@@ -477,8 +474,8 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:39px;
-    top: 780px;
-	left: 346px;
+    top: 790px;
+	left: 376px;
 	transform: rotate(180deg);
 }
 
@@ -486,14 +483,14 @@ background-color: rgb(198,198,198);
 	background-color: rgb(198,198,198);
 	width:2px;
 	height:39px;
-    top: 780px;
-	left: 484px;
+    top: 790px;
+	left: 514px;
 	transform: rotate(180deg);
 }
 .MG{
 font-family: 'Lato', sans-serif;
-	left: 353px;
-	top: 789px;
+	left: 382px;
+	top: 799px;
 	font-size: 14px;
 	color: white;
 	width: 480px;
@@ -506,8 +503,8 @@ font-family: 'Lato', sans-serif;
 
 .perf{
 font-family: 'Lato', sans-serif;
-	left: 197px;
-	top: 789px;
+	left: 218px;
+	top: 799px;
 	font-size: 14px;
 	color: white;
 }
@@ -519,8 +516,8 @@ font-family: 'Lato', sans-serif;
 
 .tix{ 
 font-family: 'Lato', sans-serif;
-	left: 48px;
-	top: 789px;
+	left: 54px;
+	top: 799px;
 	font-size: 14px;
 	color: white;
 	width: 480px;
