@@ -1,39 +1,49 @@
-html, body {
-  margin: 0;
-  padding: 0;
+
+h3{
+margin-top:1px;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 13px;
+margin-left: 4vw;
 }
 
+
+
 h1{
+	margin-left: 4vw;
 	color: rgb(115,12,16);
-	font-size: 32px;
-	margin-top:26px;
+	font-size: 36px;
+	margin-top:20px;
 	text-indent: 0px;
 	margin-bottom:0;
 	font-family: 'Share', cursive;
 }
 
 
+
 h2{
+	margin-left: 4vw;
 	font-size:18px;
-	margin-top:2px;
+	margin-top:0px;
 	margin-bottom:4;
 	font-style: italic;
 	font-family: 'Open Sans', sans-serif;
 }
 
 
+
 p{
+	margin-left: 4vw;
 	margin-top:18px;
-	font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Source Sans Pro', sans-serif;
 	font-size: 16px;
 	line-height: 24px;
-	text-indent: 46px;
+	text-indent: 0px;
 	
 }
 
 body{
 	width: 90vw;
-	margin-left: 5vw;
+	margin-left: 0vw;
 	background-color: rgb(226,222,222);
 
 }
@@ -41,20 +51,72 @@ body{
 
 
 img{
-	width:100%;
-	margin-top:6px;
+	width:100vw;
+	margin-top:-8px;
 }
 
 
 .pullquote{
-    font-size:18px;
+    font-size:20px;
+    line-height: 28px;
     color: rgb(115,12,16);
 	margin-top:16px;
 	margin-bottom:4;
 	font-style: italic;
 	font-family: 'Open Sans', sans-serif;
 	text-indent:0;
-	padding-left:5vw;
+	padding-left:2vw;
 }
+
+
+
+
+
+
+.home{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	display:inline-block;
+	width:32%;
+	text-align: center;
+
+}
+
+.next{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	display:inline-block;
+	width:32%;
+	text-align: center;
+
+
+}
+
+
+.map{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	display:inline-block;
+	width:32%;
+	text-align: center;
+	margin-left: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+@media(min-width: 550px) {
+body {
+width: 550px;
+}
+}
+
+
 
 
