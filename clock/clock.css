@@ -1,0 +1,1215 @@
+
+.seconds {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius:50%;
+  margin-bottom: 60px;
+  margin-top: 290px;
+  margin-left: 610px;
+
+
+  animation-name: animationA;
+  animation-duration: .1s;
+  animation-iteration-count: infinite;
+}
+
+
+
+.OFF3{
+
+border: 7px solid white;
+  width: 50px;
+  height: 50px;
+  border-radius:90%;
+  bottom: 10vh;
+  right:55.7%;
+left:55.7%;
+position: absolute;
+
+   animation-name: ele;
+  animation-duration: 16.5s;
+}
+
+
+
+
+.OFF1{
+
+border: 7px solid white;
+  width: 50px;
+  height: 50px;
+  border-radius:90%;
+  bottom: 10vh;
+  right:40%;
+left:40%;
+position: absolute;
+
+   animation-name: ele;
+  animation-duration: 16.5s;
+}
+
+
+
+.wake-up-text {
+  color: rgb(237,86,172);
+  font-family: Helvetica;
+  font-size: 580px;
+  font-weight: bold;
+  opacity: 0;
+}
+
+
+
+
+
+
+.border {
+border: 4px solid rgb(237,86,172);
+  width: 90px;
+  height: 90px;
+  border-radius:90%;
+  bottom: 3vh;
+  right:46.4%;
+left:46.4%;
+position: absolute;
+
+   animation-name: ele;
+  animation-duration: 16.5s;
+}
+
+
+
+.border2 {
+border: 6px solid rgb(237,86,172);
+  width: 50px;
+  height: 50px;
+  border-radius:90%;
+  bottom: 10vh;
+  right:40%;
+left:40%;
+position: absolute;
+
+   animation-name: ele;
+  animation-duration: 16.5s;
+}
+
+
+.border3 {
+border: 6px solid rgb(237,86,172);
+  width: 50px;
+  height: 50px;
+  border-radius:90%;
+  bottom: 10vh;
+  right:55.7%;
+left:55.7%;
+position: absolute;
+
+   animation-name: ele;
+  animation-duration: 16.5s;
+}
+
+
+
+.button {
+  background-color: rgb(252,126,210);
+  width: 80px;
+  height: 80px;
+  border-radius:80%;
+  bottom: 3vh;
+
+ right:47.2%;
+
+left:47.2%;
+cursor:pointer;
+position: absolute;
+z-index: 20;
+
+   animation-name: ele;
+  animation-duration: 16.5s;
+
+}
+
+
+.button2 {
+
+	border: 4px solid rgb(237,86,172);
+  width: 100px;
+  height: 100px;
+  border-radius:100%;
+  bottom: 3vh;
+  right:46%;
+left:46%;
+position: absolute;
+
+   animation-name: ele;
+  animation-duration: 16.5s;
+
+
+}
+
+
+
+.ele{
+
+  background-color: rgb(252,126,210);
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius:80%;
+  margin-bottom: 60px;
+
+
+  margin-left: 512px;
+  bottom: 1vh;
+   animation-name: ele;
+  animation-duration: 16.5s;
+
+
+}
+
+.ele2{
+
+  background-color: rgb(252,126,210);
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius:80%;
+  margin-bottom: 60px;
+
+
+  margin-left: 709px;
+  bottom: 1vh;
+
+ animation-name: ele;
+animation-duration: 16.5s;
+
+}
+
+
+@keyframes ele{
+
+0% { opacity: 0;  }
+
+50% { opacity: 0; }
+
+
+100%{ opacity: 1; }
+}
+
+
+
+
+
+
+.alarming {
+  background-color: rgb(237,86,172);
+  opacity: 1;
+
+  animation-name: pulse;
+  animation-duration: .5s;
+  animation-iteration-count: infinite;
+
+
+}
+
+
+
+
+body{
+  background-color: rgb(21,86,113);
+}
+
+
+
+@keyframes pulse{
+
+0% { opacity: 1;  }
+
+50% { opacity: 0; }
+
+
+100%{ opacity: 1; }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.min1{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:232px;
+  margin-left: 670px;
+  background-color: white;
+  transform: rotate(216deg);
+
+  animation-name: animationA;
+  animation-duration: 1s;
+}
+
+
+
+
+.min2{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:254px;
+  margin-left: 690px;
+  background-color: white;
+  transform: rotate(243deg);
+
+   animation-name: animationA;
+  animation-duration: 2s;
+}
+
+
+
+.min3{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:284px;
+  margin-left: 698px;
+  background-color: white;
+  transform: rotate(270deg);
+
+  animation-name: animationA;
+  animation-duration:3s;
+
+}
+
+
+.min4{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:313px;
+  margin-left: 690px;
+  background-color: white;
+    transform: rotate(292deg);
+
+       animation-name: animationA;
+  animation-duration: 4s;
+
+}
+
+
+
+
+.min5{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:343px;
+  margin-left: 669px;
+  background-color: white;
+  transform: rotate(328deg);
+
+     animation-name: animationA;
+  animation-duration: 5s;
+
+}
+
+
+
+
+
+.min6{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:350px;
+  margin-left: 630px;
+  background-color: white;
+
+     animation-name: animationA;
+  animation-duration: 6s;
+
+}
+
+
+
+
+.min7{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:344px;
+  margin-left: 592px;
+  background-color: white;
+  transform: rotate(29deg);
+
+     animation-name: animationA;
+  animation-duration: 7s;
+
+}
+
+
+.min8{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:313px;
+  margin-left: 570px;
+    background-color: white;
+  transform: rotate(249deg);
+
+     animation-name: animationA;
+  animation-duration: 8s;
+
+}
+
+
+
+
+
+.min9{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:284px;
+  margin-left: 566px;
+  background-color: white;
+  transform: rotate(90deg);
+
+     animation-name: animationA;
+  animation-duration: 9s;
+
+}
+
+
+
+.min10{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:254px;
+  margin-left: 570px;
+  background-color: white;
+  transform: rotate(117deg);
+
+     animation-name: animationA;
+  animation-duration: 10s;
+
+}
+
+
+.min11{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:232px;
+  margin-left: 590px;
+  background-color: white;
+  transform: rotate(140deg);
+
+
+     animation-name: animationA;
+  animation-duration: 11s;
+
+}
+
+
+
+.min12{
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  margin-top:220px;
+  margin-left: 630px;
+  background-color: white;
+
+     animation-name: animationA;
+  animation-duration: 12s;
+
+}
+
+
+
+.min13{
+  position: absolute;
+  width: 16px;
+  height: 30px;
+  margin-top:220px;
+  margin-left: 653px;
+  background-color: white;
+    transform: rotate(20deg);
+
+
+   animation-name: animationA;
+  animation-duration: 13s;
+}
+
+
+.min14{
+  position: absolute;
+  width: 16px;
+  height: 30px;
+  margin-top:243px;
+  margin-left: 696px;
+  background-color: white;
+    transform: rotate(50deg);
+
+       animation-name: animationA;
+  animation-duration: 14s;
+
+}
+
+.min15{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:280px;
+  margin-left: 712px;
+  background-color: white;
+  transform: rotate(84deg);
+
+     animation-name: animationA;
+  animation-duration: 15s;
+
+}
+
+.min16{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:317px;
+  margin-left: 713px;
+  background-color: white;
+  transform: rotate(104deg);
+
+
+     animation-name: animationA;
+  animation-duration:  16s;
+
+}
+
+.min17{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:359px;
+  margin-left: 695px;
+  background-color: white;
+  transform: rotate(124deg);
+
+     animation-name: animationA;
+  animation-duration: 17s;
+
+}
+
+
+.min18{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:382px;
+  margin-left: 654px;
+  background-color: white;
+  transform: rotate(166deg);
+
+ animation-name: animationA;
+   animation-duration: 18s;
+
+}
+
+
+.min19{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:382px;
+  margin-left: 604px;
+  background-color: white;
+  transform: rotate(196deg);
+
+ animation-name: animationA;
+ animation-duration: 19s;
+}
+
+.min20{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:362px;
+  margin-left: 560px;
+  background-color: white;
+  transform: rotate(226deg);
+
+   animation-name: animationA;
+ animation-duration: 20s;
+
+}
+
+
+
+.min21{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:318px;
+  margin-left: 540px;
+  background-color: white;
+  transform: rotate(260deg);
+
+   animation-name: animationA;
+ animation-duration: 21s;
+
+}
+
+
+.min22{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:280px;
+  margin-left: 540px;
+  background-color: white;
+  transform: rotate(280deg);
+
+   animation-name: animationA;
+ animation-duration: 22s;
+
+}
+
+.min23{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:244px;
+  margin-left: 559px;
+  background-color: white;
+  transform: rotate(308deg);
+
+   animation-name: animationA;
+ animation-duration: 23s;
+
+}
+
+
+.min24{
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  margin-top:220px;
+  margin-left: 600px;
+  background-color: white;
+  transform: rotate(338deg);
+
+   animation-name: animationA;
+ animation-duration: 24s;
+
+}
+
+
+.min25 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 175px;
+  margin-left: 620px;
+  background-color: white;
+
+     animation-name: animationA;
+ animation-duration: 25s;
+}
+
+
+.min26 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 198px;
+  margin-left: 696px;
+  background-color: white;
+
+   animation-name: animationA;
+ animation-duration: 26s;
+}
+
+.min27 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 244px;
+  margin-left: 738px;
+  background-color: white;
+
+
+   animation-name: animationA;
+ animation-duration:27s;
+}
+
+.min28 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 300px;
+  margin-left: 750px;
+  background-color: white;
+
+
+   animation-name: animationA;
+ animation-duration: 28s;
+}
+
+.min29 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 63px;
+  margin-top: 355px;
+  margin-left: 740px;
+  background-color: white;
+
+   animation-name: animationA;
+ animation-duration: 29s;
+}
+
+
+.min30 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 410px;
+  margin-left: 690px;
+  background-color: white;
+
+   animation-name: animationA;
+ animation-duration: 30s;
+}
+
+
+.min31 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 426px;
+  margin-left: 620px;
+  background-color: white;
+
+
+animation-name: animationA;
+   animation-duration: 31s;
+}
+
+
+.min32 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 410px;
+  margin-left: 552px;
+  background-color: white;
+
+animation-name: animationA;
+   animation-duration: 32s;
+}
+
+
+.min33 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 352px;
+  margin-left: 502px;
+  background-color: white;
+
+  animation-name: animationA;
+   animation-duration: 33s;
+}
+
+
+.min34 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 300px;
+  margin-left: 492px;
+  background-color: white;
+
+  animation-name: animationA;
+   animation-duration: 34s;
+}
+
+
+
+.min35 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 300px;
+  margin-left: 492px;
+  background-color: white;
+
+  animation-name: animationA;
+   animation-duration: 35s;
+}
+
+
+
+
+.min36 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 243px;
+  margin-left: 506px;
+  background-color: white;
+
+  animation-name: animationA;
+   animation-duration: 36s;
+}
+
+
+.min37 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius:70%;
+  margin-bottom: 60px;
+  margin-top: 198px;
+  margin-left: 540px;
+  background-color: white;
+
+  animation-name: animationA;
+   animation-duration: 37s;
+}
+
+
+
+.min38 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 145px;
+  margin-left: 624px;
+  background-color: white;
+
+  animation-name: animationA;
+   animation-duration: 38s;
+}
+
+
+.min39 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 175px;
+  margin-left: 720px;
+  background-color: white;
+
+  animation-name: animationA;
+   animation-duration: 39s;
+}
+
+
+.min40 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 232px;
+  margin-left: 775px;
+  background-color: white;
+
+   animation-name: animationA;
+   animation-duration: 40s;
+}
+
+.min41 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 306px;
+  margin-left: 792px;
+  background-color: white;
+
+
+     animation-name: animationA;
+   animation-duration: 41s;
+}
+
+
+
+.min42 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 374px;
+  margin-left: 780px;
+  background-color: white;
+
+     animation-name: animationA;
+   animation-duration: 42s;
+}
+
+
+
+.min43 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 444px;
+  margin-left: 715px;
+  background-color: white;
+
+     animation-name: animationA;
+   animation-duration: 43s;
+}
+
+
+.min44 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 466px;
+  margin-left: 626px;
+  background-color: white;
+
+       animation-name: animationA;
+   animation-duration: 45s;
+}
+
+
+
+.min45 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 444px;
+  margin-left: 540px;
+  background-color: white;
+
+
+       animation-name: animationA;
+   animation-duration: 46s;
+}
+
+
+
+.min46 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 372px;
+  margin-left: 475px;
+  background-color: white;
+
+       animation-name: animationA;
+   animation-duration: 47s;
+}
+
+
+
+.min47 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 306px;
+  margin-left: 460px;
+  background-color: white;
+
+       animation-name: animationA;
+   animation-duration: 48s;
+}
+
+
+.min48 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 233px;
+  margin-left: 474px;
+  background-color: white;
+
+       animation-name: animationA;
+   animation-duration: 49s;
+}
+
+
+.min49 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius:60%;
+  margin-bottom: 60px;
+  margin-top: 175px;
+  margin-left: 522px;
+  background-color: white;
+
+       animation-name: animationA;
+   animation-duration: 50s;
+}
+
+
+.min50 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:90px;
+  margin-left: 686px;
+  background-color: white;
+  transform: rotate(200deg);
+
+       animation-name: animationA;
+   animation-duration:51s;
+
+}
+
+
+.min51 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:138px;
+  margin-left: 764px;
+  background-color: white;
+  transform: rotate(228deg);
+
+
+     animation-name: animationA;
+   animation-duration:52s;
+}
+
+
+.min52 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:225px;
+  margin-left: 800px;
+  background-color: white;
+  transform: rotate(266deg);
+
+       animation-name: animationA;
+   animation-duration: 53s;
+
+}
+
+
+
+.min53 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:288px;
+  margin-left: 800px;
+  background-color: white;
+  transform: rotate(282deg);
+
+       animation-name: animationA;
+   animation-duration: 54s;
+
+}
+
+
+
+.min54 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:360px;
+  margin-left: 770px;
+  background-color: white;
+  transform: rotate(304deg);
+
+       animation-name: animationA;
+   animation-duration: 55s;
+
+}
+
+
+.min55 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:418px;
+  margin-left: 678px;
+  background-color: white;
+  transform: rotate(346deg);
+
+       animation-name: animationA;
+   animation-duration: 56s;
+
+}
+
+
+.min56 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:418px;
+  margin-left: 582px;
+  background-color: white;
+  transform: rotate(376deg);
+
+       animation-name: animationA;
+   animation-duration: 57s;
+
+}
+
+
+.min57 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:374px;
+  margin-left: 499px;
+  background-color: white;
+  transform: rotate(406deg);
+
+       animation-name: animationA;
+   animation-duration: 58s;
+
+}
+
+
+.min58 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:287px;
+  margin-left: 456px;
+  background-color: white;
+  transform: rotate(440deg);
+
+       animation-name: animationA;
+   animation-duration: 59s;
+
+}
+
+
+
+
+.min59 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:216px;
+  margin-left: 456px;
+  background-color: white;
+  transform: rotate(460deg);
+
+       animation-name: animationA;
+   animation-duration:60s;
+
+}
+
+
+
+.min60 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:142px;
+  margin-left: 494px;
+   background-color: white;
+  transform: rotate(488deg);
+
+       animation-name: animationA;
+   animation-duration: 61s;
+
+}
+
+
+
+
+
+
+.min61 {
+  position: absolute;
+  width: 10px;
+  height: 126px;
+  margin-top:92px;
+  margin-left: 572px;
+  background-color: white;
+  transform: rotate(519deg);
+
+   animation-name: animationA;
+   animation-duration: 62s;
+
+}
+
+
+
+@keyframes animationA {
+  100% {
+    background-color: rgb(237,86,172);
+  }
+0% {
+    background-color: rgb(21,86,113);
+
+animation-timing-function: linear;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
