@@ -1,0 +1,119 @@
+.logo{
+	margin-top: -1864px;
+	margin-left:20px;
+	width:310px;
+	height:310px;
+	z-index: 500;
+	position: absolute;
+
+}
+
+
+.HOME{ color: rgb(124, 210, 239);
+	font-family: helvetica;
+	font-weight: bold;
+	margin-top: -1293px;
+	position: absolute;
+	z-index: 600;
+	left: 700px;
+}
+.HOME:hover {
+	color: rgb(178,226,245);
+}
+
+
+
+.about{ color: rgb(124, 210, 239);
+	font-family: helvetica;
+	font-weight: bold;
+	margin-top: -1293px;
+	position: absolute;
+	z-index: 600;
+	left: 800px;
+}
+.about:hover {
+	color: rgb(178,226,245);
+}
+
+
+
+.ft{ color: rgb(250, 175, 108);
+	font-family: helvetica;
+	font-weight: bold;
+	margin-top: -1293px;
+	position: absolute;
+	z-index: 600;
+	left: 910px;
+}
+
+.D{ color: rgb(124, 210, 239);
+	font-family: helvetica;
+	font-weight: bold;
+	margin-top: -1293px;
+	position: absolute;
+	z-index: 600;
+	left: 1040px;
+}
+.D:hover {
+	color: rgb(178,226,245);
+}
+
+
+
+
+.bar{
+	background-color: rgb(250, 175, 108);
+	margin-top: -1202px;
+	width:22px;
+	height:2520px;
+	left: 0px;
+	transform: rotate(270deg);
+	z-index: 54px;
+}
+
+
+
+.bar2{
+	background-color: white;
+	margin-top: -2507px;
+	width:12px;
+	height:2527px;
+    
+	left: 0px;
+	transform: rotate(270deg);
+	z-index: 50px;
+}
+
+.bar3{
+	background-color: rgb(252, 247,242);
+	margin-top: -2580px;
+	width:122px;
+	height:2462px;
+    
+	left: 0px;
+	transform: rotate(270deg);
+	z-index: 50px;
+}
+
+
+
+.pic{ 
+	margin-top: -1140px;
+	margin-left:-10px;
+	height:1750px;
+
+}
+
+.insta{
+	margin-top: -1896px;
+	margin-left:1080px;
+	width:180px;
+	height:180px;
+	z-index: 590;
+	position: absolute;
+
+}
+
+
+
+

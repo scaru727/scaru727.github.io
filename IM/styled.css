@@ -1,0 +1,65 @@
+.HOME{
+	position: absolute;
+	color: black;
+    top:-4000px;
+}
+
+
+
+
+
+.logo{
+	margin-top: -1864px;
+	margin-left:20px;
+	width:310px;
+	height:310px;
+	z-index: 500;
+	position: absolute;
+
+}
+
+
+.bar{
+	background-color: red;
+	margin-top: -1202px;
+	width:22px;
+	height:2520px;
+	left: 0px;
+	transform: rotate(270deg);
+	z-index: 54px;
+}
+
+
+
+.bar2{
+	background-color: red;
+	margin-top: -2507px;
+	width:12px;
+	height:2527px;
+    
+	left: 0px;
+	transform: rotate(270deg);
+	z-index: 50px;
+}
+
+
+.bar3{
+	background-color: red;
+	margin-top: -2580px;
+	width:122px;
+	height:2462px;
+    
+	left: 0px;
+	transform: rotate(270deg);
+	z-index: 50px;
+}
+
+
+.pic{ 
+	margin-top: -110px;
+	left:50px;
+	height:1750px;
+	position: absolute;
+
+}
+
