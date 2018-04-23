@@ -1,5 +1,5 @@
 .logo{
-	margin-top: -1864px;
+	margin-top: -1845px;
 	margin-left:20px;
 	width:310px;
 	height:310px;
@@ -9,7 +9,7 @@
 }
 
 .insta{
-	margin-top: -1896px;
+	margin-top: -1878px;
 	margin-left:1080px;
 	width:180px;
 	height:180px;
@@ -85,7 +85,7 @@
 .bar2{
 	background-color: white;
 	margin-top: -2507px;
-	width:12px;
+	width:12vw;
 	height:2527px;
     
 	left: 0px;
@@ -96,7 +96,7 @@
 .bar3{
 	background-color: rgb(252, 247,242);
 	margin-top: -2580px;
-	width:122px;
+	width:160px;
 	height:2462px;
     
 	left: 0px;
