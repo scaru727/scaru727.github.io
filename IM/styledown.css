@@ -1,22 +1,49 @@
+html,body{
+
+	padding: 0;
+	margin: 0;
+}
+
+
+
 .logo{
-	margin-top: -1864px;
-	margin-left:20px;
+	top: -25px;
+	left:2vw;
 	width:310px;
 	height:310px;
-	z-index: 500;
+
 	position: absolute;
 
 }
+
+.insta{
+	top: -58px;
+	left:85vw;
+	width:180px;
+	height:180px;
+
+	position: absolute;
+
+}
+
+
+
+.pic{ 
+	margin-left:-10px;
+
+}
+
 
 
 .HOME{ color: rgb(124, 210, 239);
 	font-family: helvetica;
 	font-weight: bold;
-	margin-top: -1293px;
+    top: 34px;
 	position: absolute;
 	z-index: 600;
-	left: 700px;
+	left: 54vw;
 }
+
 .HOME:hover {
 	color: rgb(178,226,245);
 }
@@ -25,95 +52,76 @@
 .about{ color: rgb(124, 210, 239);
 	font-family: helvetica;
 	font-weight: bold;
-	margin-top: -1293px;
+	top: 34px;
+
 	position: absolute;
 	z-index: 600;
-	left: 800px;
+	left: 62vw;
 }
+
 .about:hover {
 	color: rgb(178,226,245);
 }
 
 
+
 .ft{ color: rgb(124, 210, 239);
 	font-family: helvetica;
 	font-weight: bold;
-	margin-top: -1293px;
+	top: 34px;
+	
 	position: absolute;
 	z-index: 600;
-	left: 910px;
+	left: 70vw;
 }
 .ft:hover {
 	color: rgb(178,226,245);
 }
 
 
-.D{ color:   rgb(250, 175, 108);
+
+.D{ color: rgb(250, 175, 108);
 	font-family: helvetica;
 	font-weight: bold;
-	margin-top: -1293px;
+top: 34px;
 	position: absolute;
 	z-index: 600;
-	left: 1040px;
+	left: 80vw;
+}
+.D:hover {
+	color: rgb(178,226,245);
 }
 
 
+
+
+
+.bar3{
+	background-color: rgb(252, 247,242);
+	width:100vw;
+	height:60px;
+    
+	left: 0vw;
+	
+}
 
 
 .bar{
 	background-color: rgb(250, 175, 108);
-	margin-top: -1202px;
-	width:22px;
-	height:2520px;
+	width:100vw;
+	height:22px;
 	left: 0px;
-	transform: rotate(270deg);
-	z-index: 54px;
-}
-
-
-
-.bar2{
-	background-color: white;
-	margin-top: -2507px;
-	width:12px;
-	height:2527px;
-    
-	left: 0px;
-	transform: rotate(270deg);
-	z-index: 50px;
-}
-
-.bar3{
-	background-color: rgb(252, 247,242);
-	margin-top: -2580px;
-	width:122px;
-	height:2462px;
-    
-	left: 0px;
-	transform: rotate(270deg);
-	z-index: 50px;
-}
-
-
-
-.insta{
-	margin-top: -1896px;
-	margin-left:1080px;
-	width:180px;
-	height:180px;
-	z-index: 590;
-	position: absolute;
 
 }
 
 
 
+.picc{
+     top: -2vw;
 
-
-.download{ 	margin-top: -1140px;
-	margin-left:-10px;
-	height:1750px;
-
+     position: absolute;
+     z-index: 900px;
+	
+	left:100px;
 
 }
-
